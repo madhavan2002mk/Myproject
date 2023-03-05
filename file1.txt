@@ -1,0 +1,2 @@
+this ia a git file class.
+hai initialize git
